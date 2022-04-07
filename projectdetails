@@ -1,0 +1,5 @@
+User can create form on browser storage.
+Creating Forms should have add questions.
+The type of answers will be selected as multi choice(check boxes), Single choice(radios) or descriptive(Text)
+Dynamic generated form can be accessed by dynamic URL like localhost.com/form/id
+The form entry data will be stored into the localhost db/state array and shows into grid.
